@@ -3,7 +3,7 @@
 
 `include "uvm_macros.svh"
 import uvm_pkg::*;
-`include "pkg.sv"
+`include "syn_package.sv"
 
 
 module top;
